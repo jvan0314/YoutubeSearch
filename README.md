@@ -1,10 +1,4 @@
-# ReduxSimpleStarter
-
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
+#This is a web application that can search videos from youtube and play it.
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
@@ -23,3 +17,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
